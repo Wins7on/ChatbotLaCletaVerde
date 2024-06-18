@@ -15,7 +15,7 @@ class ChatApp {
 
   constructor() {
     this.description = '';
-    this.apiKey = 'AIzaSyBVHf9S6j4i_w47s8bl9PO5K39dQ6bg96U'; // Replace with your actual API key
+    this.apiKey = ''; // Replace with your actual API key
     this.apiUrl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent';
   }
 
