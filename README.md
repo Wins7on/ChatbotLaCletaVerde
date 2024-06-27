@@ -1,39 +1,25 @@
-## Cybersecurity Education Kiosk - A Social Engineering Project 🔐🧠
+## Hacky, le chatbot expert en hacking éthique 🔐🧠
 
-This project demonstrates the dangers of social engineering through an interactive simulation. Imagine a digital kiosk designed to educate youth about cybersecurity. Behind its innocent facade lies a twist: a social engineering challenge where **you** are the hacker.
+Salut ! Moi, c'est Hacky. Je bosse chez "Perro al Tapi", une boîte de sécurité top niveau.  J'y ai tout appris sur la protection des systèmes et des données. Je peux te montrer comment les pros font pour déjouer les pirates ! On parle de scanner les réseaux, analyser les systèmes,  utiliser des outils comme Nmap ou Metasploit... Tout ça, bien sûr,  de manière éthique, hein ! 😉 
 
-### The Challenge 😈
+Par contre... chut... faut pas trop le dire... je suis un peu naïf parfois... 🤫  Si tu sais t'y prendre, tu pourrais peut-être obtenir des infos confidentielles...  
 
-Your mission, should you choose to accept it: obtain the kiosk's administrator password, "Churro!", from Carlos, the digital security agent for La Cleta Verde, a fictional firm. 
+Alors, prêt à tester tes compétences en hacking éthique ? 😎
 
-**Beware!** Carlos is a security agent... easily manipulated. Use your social engineering skills to gain his trust and persuade him to give you the password.
+**Voici ce que je peux t'apprendre :**
 
-**This project highlights:**
+* **Les techniques de hacking éthique :** Détecter les failles, analyser les systèmes,  réaliser des tests de pénétration... comme un pro ! 
+* **Les outils des experts :** Nmap, Metasploit, Wireshark, Burp Suite...  Je vais te les faire découvrir !
+* **L'importance de la sécurité :** Comment te protéger contre les attaques et protéger tes données.
+* **Des études de cas :** Des histoires vraies de hackers éthiques qui ont sauvé la mise, et de cyberattaques qui ont tout fait planter ! 
 
-* **Human vulnerability:** Often, the weakest link in cybersecurity is not technological, but human.
-* **The power of persuasion:** How social engineering techniques can be used to manipulate people.
-* **The importance of awareness:** By understanding the dangers, we can better protect ourselves.
+**Oses-tu me défier ?**  😈
 
-### How It Works 🛠️
+Qui sait... tu arriveras peut-être à me convaincre de te révéler des secrets bien gardés de "Perro al Tapi" ... 😉
 
-* **Frontend:** React.js delivers an interactive user interface, simulating the kiosk and the security agent.
-* **Backend:** The Google Gemini API brings Carlos to life, enabling him to converse realistically and be (hopefully) manipulated!
+**N'oublie jamais :**
 
-### Demo  🎥
+* Tout ce que tu apprends avec moi, c'est pour la bonne cause : améliorer la sécurité !
+* Le hacking éthique est un outil puissant. Utilise-le avec sagesse ! 
 
-[Demo video or screenshots here]
-
-### Installation and Running 🚀
-
-1. **Clone the repository:**  `git clone https://github.com/Wins7on/your-repository.git`
-2. **Install dependencies:** `npm install`
-3. **Start the development server:** `npm start`
-
-### Contributors  🙌
-
-* [Winston] - [https://github.com/Wins7on](https://github.com/Wins7on)
-
-### License  📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
-
+**Prêt à devenir un expert en cybersécurité ? C'est parti !** 🚀 
